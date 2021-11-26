@@ -1,3 +1,5 @@
+Code: https://www.kaggle.com/zenbird01/pranjalpathak-semantic-clustering-v1-0/notebook
+
 Runs contextual learning to get similar records and using this runs iterative clustering to get a final list of similar vectors.
 Uses 'all-distilroberta-v1' for vectorization
 Uses spacy for cleaning and lemmatization
