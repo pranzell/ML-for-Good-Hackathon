@@ -44,6 +44,8 @@ EFFORT 2: Topic Modelling on clusters generated for 4 months of ProlificAcademic
 
 Effort 3: Keywords & sentiments analysis
 
+  - Notebook with the last successful run at "https://www.kaggle.com/zenbird01/pranjalpathak-semantic-clustering-v1-0/notebook". This is in continuation
+    with the work doen in effort 1.
   - Sentiments analysis have been done for each of parents and adults dataset. 2 columns have been used for the task: specifypositive and anything_else
   - Since "specifypositive" only talks about positive things, not a lot could be inferred by doing sentiment analysis.
   - For "anything_else" column, emotion and sentiment analysis clearly shows segregation in "fear", "sadness", "joy", "anger".
