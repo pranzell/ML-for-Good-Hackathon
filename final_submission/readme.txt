@@ -75,6 +75,7 @@ Key resources and packages: sklearn, numpy, pandas, sklearn, networkx
 
 Othre Ideas - 
   - Data:crisislogger. Using T5 based model to generate questions using the text. 
-  	- We've done a quick run using the model available at, https://github.com/AMontgomerie/question_generator. The output questions are aviable in the image file generated_questions_crisislogger.jpg
+  	- We've done a quick run using the model available at, https://github.com/AMontgomerie/question_generator. 
+	- The output questions are aviable in the image file generated_questions_crisislogger.jpg
 	- The intial results seem intriguing, with further effort this might give more relevant results.
 
