@@ -2,6 +2,7 @@
 EFFORT 1: Clustering of ProlificAcademic data for the 4 months based on "specifypositive" column
 
   - Jupyter notebook file name : "clustering_effort_1.ipynb"
+  - Notebook with the last successful run at "https://www.kaggle.com/zenbird01/pranjalpathak-semantic-clustering-v1-0/notebook"
   - Separate clustering has been done for Adults and Parents
   - Generated 90 clusters for adults and 65 clusters for parents data
 
@@ -23,7 +24,7 @@ EFFORT 1: Clustering of ProlificAcademic data for the 4 months based on "specify
 
 EFFORT 2: Topic Modelling on clusters generated for 4 months of ProlificAcademic data on "specifypositive" column
  
-  - Jupyter notebook file name: "clustering and topic modelling effort_2.ipynb"
+  - Jupyter notebook file name alongwith last successful run: "clustering and topic modelling effort_2.ipynb"
   - New cluster were formed using a different technique in order to get more well defined boundaries
   - Uses BERTopic to cluster and model topics each row of "specifypositive" column for 4 months
   - Finds 15 clusters for adults' data and 13 for parents' data
@@ -56,3 +57,6 @@ Effort 3: Keywords & sentiments analysis
     2) For parents' data: 
 	"df_parent_clustered_01122021"  -  On specifypositive column
 	"df_parent_any_01122021"  -  On anything_else column
+
+
+Key resources and packages: sklearn, numpy, pandas, sklearn, networkx 
