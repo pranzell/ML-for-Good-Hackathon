@@ -60,5 +60,15 @@ Effort 3: Keywords & sentiments analysis
 	"df_parent_clustered_01122021"  -  On specifypositive column
 	"df_parent_any_01122021"  -  On anything_else column
 
+Effort 4: Anlysing sentiment and emotions
 
+
+  - Jupyter notebook file name alongwith last successful run: "Analysing sentiment and emotion | anything_else data.ipynb"
+  - It is in continuation using the result from effort 3
+  - Using the emotion and sentiment extracted from "anything_else" column
+  - Checking the longitudanal variation of sentiment and emotion over the two months
+  - Analysing the relation with mood states and covid worries
+  - In general, the sentiment/emotion extracted from text seem consistent with the mood/worry scores provided
+  
+  
 Key resources and packages: sklearn, numpy, pandas, sklearn, networkx 
