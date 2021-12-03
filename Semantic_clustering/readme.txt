@@ -11,7 +11,7 @@ EFFORT 1: Clustering of ProlificAcademic data for the 4 months based on "specify
     2. Uses 'all-distilroberta-v1' for vectorization
     3. Uses spacy for cleaning and lemmatization
     4. Uses sparse matrix multiplication for generating similar vetors
-    5. Uses heusristic for number of clusters
+    5. Uses heuristic for number of clusters
 
   - Results of clustering have been saved in 2 CSVs: "df_adults_clusteredResults_26112021.csv" and "df_parent_clusteredResults_26112021.csv"
 
@@ -45,7 +45,7 @@ EFFORT 2: Topic Modelling on clusters generated for 4 months of ProlificAcademic
 Effort 3: Keywords & sentiments analysis
 
   - Notebook with the last successful run at "https://www.kaggle.com/zenbird01/pranjalpathak-semantic-clustering-v1-0/notebook". This is in continuation
-    with the work doen in effort 1.
+    with the work done in effort 1.
   - Sentiments analysis have been done for each of parents and adults dataset. 2 columns have been used for the task: specifypositive and anything_else
   - Since "specifypositive" only talks about positive things, not a lot could be inferred by doing sentiment analysis.
   - For "anything_else" column, emotion and sentiment analysis clearly shows segregation in "fear", "sadness", "joy", "anger".
